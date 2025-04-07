@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 A Computer Engineering student<br>
-🌱 Currently learning Backend Engineering (Mainly) with some Frontend (Technologies like Node.js with typescript, Python, C)<br>
+🌱 Currently learning Backend Engineering (Mainly Node.js, also I love TypeScript) with some Frontend<br>
 ⚡ Fun fact: I enjoy building things that seem useful and could ease someone else's experience<br>
 
 > Python --> 4-5 Months<br>
