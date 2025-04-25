@@ -26,5 +26,4 @@
 <br>![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&compact=true&logo=sqlite&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahm4dd&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahm4dd&layout=compact)<br>
