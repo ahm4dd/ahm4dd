@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 A Computer Engineering student (And no I don't like hardware)<br>
-🌱 Currently learning Backend Engineering (Mainly Node.js with TypeScript and PostgreSQL) with some Frontend (A bit of React won't hurt)<br>
+🌱 Currently learning Backend Engineering<br>
 ⚡ Fun fact: I enjoy building things that seem useful and could ease someone else's experience (Sometimes build things for pure joy)<br>
 
 # 💻 Tech Stack:
