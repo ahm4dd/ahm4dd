@@ -26,3 +26,4 @@
 <br>![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&compact=true&logo=sqlite&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
+> If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe
