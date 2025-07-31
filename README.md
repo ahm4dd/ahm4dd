@@ -1,3 +1,5 @@
+![intro](your_cool_intro.gif)
+
 # 💫 About Me:
 🔭 A Computer Engineering student (And no I don't like hardware)<br>
 🌱 Currently learning Backend Engineering (Also doing frontend)<br>
