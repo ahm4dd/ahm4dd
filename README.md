@@ -2,19 +2,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F73658&background=A7FFF500&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+ahm4dd;A+Backend+Engineer+(Learning);Frontend+Developer+(Learning);Future+Fullstack+Engineer" alt="Typing SVG" /></a>
 </p>
 
-<h1 align="center">💫 About Me</h1>
+<h1 align="center">About Me</h1>
 
-🔭 Computer Engineering student focused on software development<br>
-🌱 Backend Engineer learning Frontend Development<br>
-⚡ Fun fact: I enjoy building useful tools that improve user experiences<br>
+- Computer Engineering student with a focus on software development<br>
+- Backend Engineer (Hopefully)<br>
+- Still trying to come up with a tool to ease my experience<br>
 
-<h2 align="center"> 🎯 Current Focus</h2>
-
-- **Backend Engineering** (Primary)
-- **Frontend Development** (Learning)
-- Willing to build full-stack applications
-
-# 💻 Tech Stack:
+# Tech Stack:
 
 ## Backend & Databases
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
 ## DevOps & Cloud
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
