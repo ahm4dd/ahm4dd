@@ -46,5 +46,5 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahm4dd&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahm4dd)
 > "If, at first, you do not succeed, call it version 1.0." ― Khayri R.R. Woulfe
