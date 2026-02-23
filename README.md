@@ -6,8 +6,9 @@
 
 <h1 align="center">About Me</h1>
 
-- Computer Engineering student with a focus on software development<br>
-- Backend Engineer (Hopefully)<br>
+- Backend Engineer<br>
+- Studies Computer Engineering but with a focus on software engineering<br>
+- Is exploring distributed systems and different tools, interested in system design
 - Still trying to come up with a tool to ease my experience<br>
 
 # Tech Stack:
